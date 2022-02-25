@@ -1,0 +1,466 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for the farming of licence to use no conscience at all</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56016</idno>
+            <idno type="STC">Wing P3699</idno>
+            <idno type="STC">ESTC R221536</idno>
+            <idno type="EEBO-CITATION">99832834</idno>
+            <idno type="PROQUEST">99832834</idno>
+            <idno type="VID">37309</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56016)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37309)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2151:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for the farming of licence to use no conscience at all</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, MDCLXIII. [1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Pages cropped and stained with slight loss of print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37309:1" rendition="simple:additions"/>
+            <p>PROPOSAL FOR The Farming OF LICENCE TO USE No Conſcience AT ALL.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, MDCLXIII.</p>
+            <pb facs="tcp:37309:2" rendition="simple:additions"/>
+            <pb facs="tcp:37309:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="proposition">
+            <pb facs="tcp:37309:3"/>
+            <pb facs="tcp:37309:3" rendition="simple:additions"/>
+            <head>A PROPOSAL, &amp;c.</head>
+            <p>SInce this Nation cannot be ignorant that we of the Faithful Honeſt Party for many years laſt paſt, have waſted our Patrimonies, have ſat up whole nights, and myriads of nights, ſwearing, and ſmoaking, and drinking, and ſoaking in Sack and in Ale, both raw and butter'd; all which we did upon deſign to promote the Common Good: And ſince it is apparent, that many of us have no reward for theſe moſt meritorious Services, inſomuch that our great ſpreading Plumes are ſhrivell'd, and moultered into one ſingle yard of 4 d. Ribbon; that our Pockets inſtead of money are fain to hold the dirty ſcraps of Bread and Cheeſe; that our Swords, like the dreadful Weapon of Captain <hi>Beſſus,</hi> are by our Enemies meerly eaten up into knives, that our Cloaths in general are ſo bedanbed with diſtillations from the Pint-pot, that they ſmell more ſtrong then a Brewers Apron: We out of an Heroick Indignation can no longer patiently endure theſe moſt ungodly perſecutions, but humbly implore, that the means hereafter propoſed may be liſtned and yielded to, that there may be ſome Alleviation of our miſeries, and that we may once more be reſtored to our tranſcendent Nobilitating Elements of Sack and Ale, whereby our drooping Spirits will be again ſet afloat, to the utter confuſion of all the Small-Beer Presbytetians, Anabaptiſts, Fifth-Mo<g ref="char:EOLhyphen"/>narchy-men, and Quakers, and of all the Coffee-drinking-Commonwealths-men, and Harringtonians.</p>
+            <p>Our Propoſal and Petition is, That whereas this Nation through our aſſidu<g ref="char:EOLhyphen"/>ous endeavours does now abound with the Honourable Gentle Qualities of drinking, ſwearing, whoring, cheating, <hi>&amp;c.</hi> no perſon for the future may in<g ref="char:EOLhyphen"/>dulge either his pleaſure or profit, by exerciſing himſelf in any of them, un<g ref="char:EOLhyphen"/>leſs he has a ſpecial Warrant or Licenſe by ſome eminent Aſſembly of us met to this purpoſe, under the notion and title of <hi>Commiſſioners, &amp;c.</hi> Which Com<g ref="char:EOLhyphen"/>miſſioners being to be compoſed of eight or ten of thoſe Damme-blades, who own the profeſſion of the Sword, as many Cheats and Broken Gameſters of a<g ref="char:EOLhyphen"/>ny common Dicing-Ordinary, with ſome of the rank Fleſh-flies and Smell-Smocks, and other ſtrong Drunkards of the Town, ſhall have power under the Farm-rent of 200000 l. <hi>per annum</hi> to the State, to make every man compound according to the rates here under ſpecified, for his particular liberty to drink, whore, ſwear, lye and cheat, and act other the like extravagancies.</p>
+            <p>That ſuch a number of Commiſſioners being found out and nominated, may be authorized to ſet up one publick Office at the — Tavern in <hi>Covent-Garden,</hi> or elſewhere, with power to conſtitute under-Officers, as Regiſters, Clerk, Porter, &amp;c. and that the ſaid Commiſſioners may have a common Seal, known by the name of <hi>The Great Seal of the Commiſſioners and Farmers of the Liberty of having no Conſcience;</hi> engreven either with a <hi>Die Slurrant,</hi> or a <hi>Tongue Swearant,</hi> or a <hi>Mouth Spuant,</hi> or a <hi>Pluſh-coat Pawnant,</hi> it matters not which; and with this Motto, <hi>Lucribonus odor exre Qualiber.</hi>
+            </p>
+            <pb facs="tcp:37309:4"/>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> man impoſe the Rates here under ſpeeified.</p>
+            <p>
+               <table>
+                  <head>Rates to be obſerved in all Compoſitions for Liberty of having no Conſcience.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>per annum.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>For Liberty to ſwear in general.</cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For grand thundering Oaths in particular.</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For ſmall mimical Oaths: as when we ſwear by our Honor, or Virginity, or Truth, or Reputati<g ref="char:EOLhyphen"/>on, or Honeſty, or Conſcience, or Fatih: or by any ſuch abſtracted Notional Fiction, which never was, nor never will be <hi>in eſſe.</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Curſing in general.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For ſine ſmall ingenious Curſes.</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For loud Curſes.</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Imprecations, as, <hi>God damn my Soul, the Devil ſuck my Soul through a Tobacco-Pipe,</hi> &amp;c.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Congratulations when friends meet, and ſay, <hi>God confound your Soul</hi> (Dick) <hi>for a Son of a Whore; how doſt do? When didſt thou ſee Mi<g ref="char:EOLhyphen"/>ſtreſs</hi> Suſan <hi>at the ſign of the</hi>—</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For the priviledge of Lying or Romancing.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For being drunk with Sack.</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For being drunk with Ale, (unleſs with Cock-Ale, or China-Ale)</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a Licenſe to compile &amp; ſing groſs baudy ſongs</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For lying with common Park whores.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For debauching Citizens Wives, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For belying honeſt Women, ſaying, That ſuch a Lady loves me, and ſuch a Lady gave me ſo many pair of Silk Stockine, or ſuch a Ring, or ſuch a Suit of Lac'd Linnen, or ſo much money for ſatisfying her Appetite.</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For the priviledg of being a rank Cheat in general.</cell>
+                     <cell>20</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Dodging at Cards in particular, as, for Cut<g ref="char:EOLhyphen"/>ting or Shuffling with a broad Card, or a ſmooth Card, or a crooked Card.</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a Liberty to play at Cribbidge, or Putt, and one and thirty with ſix or ſeven Cards.</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Slurring, or Knapping, or ſtriking a Die out of hand.</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Palming and Fingering a Die.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <pb facs="tcp:37309:4" rendition="simple:additions"/>
+                  <row>
+                     <cell>For holding one or two Dice at the top or a Dice Box, which we Gameſters call Topping.</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For having our conſent to uſe all ſorts of falſe-Dice, as <hi>Quater Deux aces, Cinq tray aces, Size quater Deuxes, Bar ſize ases, high Fullams, low Fullams, &amp;c.</hi>
+                     </cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For priviledge to borrow money upon Parol: with an honeſt intention never to pay.</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a Liberty to baffle a young Coxcomb out of his money, or Watch, or ſo.</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For the precious faculty of borrowing a Cloak of a Civil Perſon, under pretence of rainy Wea<g ref="char:EOLhyphen"/>ther, or foul Linnen, with a reſolution to pawn it at the nex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Broakers.</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For a priviledge to break any oath or promiſe whatſoever, upon any motive or conſideration.</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For making it a common practice to retreat out of Taverns with ſword in hand, promiſing to pay next time.</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For common bilking of a bawdy houſe when mo<g ref="char:EOLhyphen"/>ney is gone, and no Dinner to be had any where elſe.</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>For making it a practice to kiſs women in the ſtreet when a ſudden drunken motion pricketh forward.</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For having a Liberty to huff up and down, and, pretend to Land and Eſtate, talking of Te<g ref="char:EOLhyphen"/>nants, Rents, Servants, Horſes, Dogs, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For having a liberty to drop ſhillings in the ſtreet, thereby to draw in ſilly Prentices and Country Fellows to be chous'd of their ſingle money.</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For liberty to ſet up or hold <hi>a Leaguer or ſociety of Band, Whore,</hi> &amp; <hi>Hector;</hi> ſuch as we ſee repreſented in the Comedy called, <hi>The Knave in Grain.</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> For a Liberty to Coyn, or take a Purſe, when money is to be gotten no other ways.</cell>
+                     <cell>20</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>That immediately Proclamation may be made, <hi>That all Hectors, Low-Coun<g ref="char:EOLhyphen"/>try-Captains, Broken Citizens, Gentlemen of the High-way, Cheats, Drunkards, Swearers, Curſers, Wenchers, Lyars,</hi> &amp;c. <hi>ſhall appear before the ſaid Commiſſion<g ref="char:EOLhyphen"/>ers at the place appointed as aforeſaid, and there compound according to the prece<g ref="char:EOLhyphen"/>dent rates, for their illegal and unchriſtian ways of profit, pleaſure, and vain glory.</hi>
+            </p>
+            <p>That as the ſaid Commiſſioners ſhall have power to aſſets the ſaid Rates
+<pb facs="tcp:37309:5"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and other priviledges; ſo when any of the Brethren are fallen into adverſity, they ſhall have authority to allow a competent ſum to any of them, for a <hi>Radix,</hi> or <hi>pun<g ref="char:EOLhyphen"/>clum Saliens</hi> to their ſuture Fortunes.</p>
+            <p>That in ſome Caſes the Commiſſioners ſhall have liberty to gratifie and re<g ref="char:EOLhyphen"/>ward the Gallantillo's for any notable Action done, ſo it come within the li<g ref="char:EOLhyphen"/>mits of their inſpection.</p>
+            <p>
+               <table>
+                  <head>Rewards for brave and Generous Actions.</head>
+                  <row>
+                     <cell>As where a man drinking the Kings Health, flings his Hat in the fire, though the Hat be worth but 2 <hi>s.</hi> 6. <hi>d.</hi>
+                     </cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> Where the Fort being known to be full of moſt conſuming Wild-fire, is yet enter'd by ſome Eager-courag'd man.</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> Where a man in <hi>Cupids</hi> Battels has loſt the uſe of his Limbs, and has his Noſe Moth-eaten with the <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>es Venerea.</hi>
+                     </cell>
+                     <cell>06</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> Where a Gentleman kills any Sergeant or Bayliff; (which Generation in all future times ſhall be by us accounted as <hi>Woolferthod, qui ge<g ref="char:EOLhyphen"/>runt Capita Lupina.</hi>)</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> Where a company of Swa-ſhado's beat the Watch.</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> Where a man inſpir'd with Bacchanalian fury breaks the windows of a whole ſtreet.</cell>
+                     <cell>02</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Item,</hi> If he do it with his hands, and his hands are cut with the Glaſs.</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Et ubi cadem est ratio, ibi erit eadem Lex.</hi>
+            </p>
+            <p>That no man be admitted to compound for having no Conſcience at above-ſaid, before he hath ſubſcribed the ſolemn Proteſtation following:</p>
+            <p>I. A. B. <hi>do hereſol mnly proteſt, that</hi> I <hi>judge my ſelf bound, as I am a Getleman well deſcended, not to yield my ſelf a Captive to the Jaws of Poverty, nor to attend the leiſure or delay of any honeſt imployment, but rather to cheat, rob, or Hecto<g ref="char:EOLhyphen"/>rize, or plough my maintenance out of the luſt of any looſe Woman, whether ſhe be Maid, Wife or Widow, of the City or Country. That as I am a good Orthodox Com<g ref="char:EOLhyphen"/>monwealths-men. I am obliged to keep up the Honourable Cuſtomes of drinking, ſavearing and ſmocking, and to confound all vile Fanaticks with the fierce Gun<g ref="char:EOLhyphen"/>powder of ſwelling Oaths, and with moſt pregnant mickle courage drawn from the operation and energy of Sack: And though I do intend to carry a pretty plauſible Gentile Outſide, yet my Reſolutions art, for ever to baniſh the thoughts of Real Ho<g ref="char:EOLhyphen"/>nour, or Conſcience, or Religion, as meer fantaſtical Idea's, and Chimaerical Noti<g ref="char:EOLhyphen"/>ons ſupra nos, and ſo</hi> nihil ad nos.</p>
+            <p>
+               <hi>Alſo I do believe, that the Conſtitution of this Honourable Society of Commiſſion<g ref="char:EOLhyphen"/>ers, is very agreeable to our preſent neceſſities; and that 'tis therefore grounded on Reaſon</hi> ſupr' amount <hi>to that of any poſitive Law, and ſo ought inviolably to be obſerved.</hi>
+            </p>
+            <pb n="5" facs="tcp:37309:5" rendition="simple:additions"/>
+            <p>That no perſon taking this Proteſtation, and compounding as aboveſaid, ſhall be queſtioned for any of the precedent Miſdemeanors in any Court Spi<g ref="char:EOLhyphen"/>ritual or Temporal; but ſhall be diſcharged upon proof made of the ſaid Com<g ref="char:EOLhyphen"/>poſition, <hi>Ouſur Manſtrans d' Eſcript South Seal del dits Commiſſioners.</hi>
+            </p>
+            <p>That Letters Congratulatory may be ſent to the Pope, to certifie the actual approbation of the Engliſh for his taking tribute from the Stews; ſeeing that upon the ſame grounds is built the Superſtructure of this Honourable Aſſem<g ref="char:EOLhyphen"/>bly of Commiſſioners, <hi>&amp;c.</hi> with the Revenue and Profits accrewing to the State thereby.</p>
+            <p>That no Common Players (truly ſo called) be obliged or compelled to compound according to the Rates aboveſaid, becauſe they were long ago vir<g ref="char:EOLhyphen"/>tually incorporated into this Society by the Statute.</p>
+            <p>That if any man fear to be Robbed, or Cheated, or to have his Wife whor'd, <hi>&amp;c.</hi> in caſe he repair to the ſaid Commiſſioners, they ſhall execute the Office of <hi>Mal Cut-purſe,</hi> and for a ſmall ſum of money ſhall ſecure him, by good pledges, from any ſuch loſs or damage.</p>
+            <p>That for the future no perſon or perſons, having compounded as above ſaid, ſhall be branded with any names of ignominy or ſcandal, as heretoſore; but that ſuch as are common Hectors, Cheats, Padders, or Coiners, ſhall be called, <hi>Ingenious Perſons that live by their Wits:</hi> and ſuch as are notorious Sots and Drunkards, ſhall be characteriz'd to be <hi>Good well-meaning honeſt Fellows:</hi> and ſuch as are grand Horners and Fornicators, ſhall modeſtly be termed, <hi>Amorous Perſous:</hi> and thoſe who are given to lying, ſhall be called <hi>Romancers or Hiſtorians.</hi>
+            </p>
+            <p>That if any man who has compounded as aboveſaid, looſe 35.6. <hi>d.</hi> at any Gaming Ordinary, it ſhall be lawful for him to look ſowre, and curſe exceed<g ref="char:EOLhyphen"/>ingly, and ſwear to the next man he meets, that he has loſt 5 <hi>l.</hi> and to the next man, that he has loſt 10 <hi>l.</hi> and to the next man, that he his loſt 20 <hi>l.</hi> and ſo under pretence of the ſaid fictitious loſs, to thruſt along with any Company into a Tavern, and come off Scot-free.</p>
+            <p>That the Commiſſioners ſhall and may appoint ſeveral private Committees at confiding le-houſes, <hi>&amp;c.</hi> to give in intelligence of young Novices and Bubbles, that have no more wit or brains then to be cheared; what ſums of money are moving upon the Road; what City-Madams there are of eaſie wanton inclinations; what Taylors and Tradeſmen are giſted with a <hi>photopho<g ref="char:EOLhyphen"/>ria,</hi> or ſulneſs of Faith; where is the beſt Liquor, be it Wine, Ale, Cyder, Chocolatta, <hi>&amp;c.</hi>
+            </p>
+            <p>That it being the misfortune of many Hectors, Drunkards and Leachers, who pretend to ſufferings for Loyalty, to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> poor, ſo that their Coats (whe<g ref="char:EOLhyphen"/>ther Pluſh or Cloth) their Horſes, Watches, Rings, Swords, Boors, with other Veſtments, Appendants, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, were <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to he Mortgaged in Ale houſes, in Taverns, and Brokers Wardrobes; there may be ſo much money immediately depoſited by the State as will redeem them; to the end that ſuch worthy Perſonages may no longer look like the Epitomes of a Sh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p-wrack, or old-hatcht Hilts, here a ſpot of Silver; and there a ſpot of Ruſt.</p>
+            <p>That it ſhall not be lawful for any Door-keeper at a Play-houſe to deny entrance to ſuch perſons as have compounded as above ſaid; in caſe any one of the perſons ſwear <hi>God Dammee</hi> with a clear and audible voice eight times; and alſo in caſe he call the ſaid Door-keeper <hi>Son of a Whore,</hi> and kick him one and twenty times.</p>
+            <pb n="6" facs="tcp:37309:6"/>
+            <p>That the Commiſſioners and their Compoſition-men may have free privi<g ref="char:EOLhyphen"/>ledge to baffle, out-talk, cut-ſweat, and out-face any of thoſe Maidenly meal<g ref="char:EOLhyphen"/>mouth'd people whom they call Fanaticks, or any who dares mention the word <hi>Conſcience,</hi> or pronounce a Text of Scripture in their company: That in caſe any one perſiſt in ſuch babble or impertinence, they may lawfully kick or ſtab him: or upon the moſt moderate terms ſpit or throw a glaſs of drink in his face; and ſo with ſolemn cenſure excommunicate him out of the pale of their Society.</p>
+            <p>That the ſaid Commiſſioners may he licenſed to hold this following Opini<g ref="char:EOLhyphen"/>on as probable and Orthodox: <hi>Videlicet:</hi>
+            </p>
+            <p>
+               <hi>That Satan being nothing elſe but a certain Accumulation or Primitive ſtock of Evil, whatſoever wickedneſs is perpetrated by Mortals, muſt neceſſarily be a ſub<g ref="char:EOLhyphen"/>ſtraction from his Eſſence; and the more men ſin and tranſgreſs, the more they di<g ref="char:EOLhyphen"/>miniſh and ſpend upon his ſubſtance; till at length when their concupiſce thial ſpungy Natures have ſuck'd up all iniquity, it is impoſſible there ſhould any Devil be left at all, in regard he will be totally devour'd, ſwallow'd up, and extinguiſht.</hi>
+            </p>
+            <p>And that upon this ſublime conſideration, the ſaid Commiſſioners and their Proſelites may be lookt upon as friends to Religion, becauſe they take the readieſt courſe to vanquiſh and annihilate her oldeſt and greateſt Antagoniſt.</p>
+            <p>That in caſe all, or the moſt eſſential part of theſe Propoſals are not granted us our credits with Taylors and Taverns will be clearly bankrupt; and our wants having bereav'd us both of our Periwigs and Linnen, Nature, Neceſſity and Deſperation, will oblige us to grow ſullen and Religious, and to fall into ſome melancholy Sect, like that of the Quakers, wholly oppoſite to Hectori<g ref="char:EOLhyphen"/>zing, and moſt Antipodian to the Town Gallantry: in which condition, 'tis very probable we ſhall become Factious, and ſhall ſtudy bitter Invectives, and dangerous Principles againſt the Government, <hi>&amp;c.</hi>
+            </p>
+            <p>That therefore we ought to be conſidered, and our Propoſals yielded to, not only in regard of ſervices paſt, but of inconveniences to come. And we fur<g ref="char:EOLhyphen"/>ther more promiſe, That whatſoever we do, within the limits aboveſaid, ſhall all be unto Loyal ends, as far as the nature of things will permit: ſo that when we drink our liquor with a <hi>gaſto,</hi> when we cheat, or coin, or take a Purſe; when we kiſs, imbrace, hug, and — to an high extaſie of pleaſure; when we ſwear like Gentlemen of Rank, Curſe, Damn, Sink, take our Swinges in all manner of Rants, carnalities and debauches, though we enjoy the ſenſual earthly part of them, yet ſhall we ever dedicate the pure notional abſtracted Idea's of them to the proſperity of that glorious Intereſt, for which (in the Battels of <hi>Cupid</hi> and <hi>Bacchus</hi>) we have ſo long contended. And we ſhall al<g ref="char:EOLhyphen"/>ways endeavour to blaſt the thin effeminate Souls of the Fanaticks with the ſtrong Hantgant of Sack and Tobacco, which does ſtream in a powerful mix<g ref="char:EOLhyphen"/>ture and coagulation from between our jaws. Nor will we be remiſs in ſtri<g ref="char:EOLhyphen"/>ving by all means imaginable to explode the Heretical Opinion in the Poli<g ref="char:EOLhyphen"/>ticks, called <hi>Democracy,</hi> as a Device which we find to be built upon inconſi<g ref="char:EOLhyphen"/>ſtent contradictory Foundations, <hi>viz. Rotation and the Balance:</hi> For upon ſen<g ref="char:EOLhyphen"/>ſible experience we know, that when Rotation is in the Head or Brain, there can be no balance in the heels.</p>
+            <p>Finally, if nothing elſe will avail, we will combine to ſpue and piſs out the fires which lies rak't up in the miſchievous Embers of Civil diffention. Not do we care though they make a great <hi>Hiſſing</hi> when we firſt go about in, becauſe the ſaid Embers, being totally extinguiſhed, we do propoſe to our ſelves to dance and tumble, and frolique it in the aſhes. <hi>Anonimus.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37309:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
